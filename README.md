@@ -80,17 +80,7 @@ npm install
 
 ## Enviroment vars
 
-ENVIRONMENT=development
-APP_URL=http://localhost:3000
-PORT=8080
-MONGODB_ENDPOINT=mongodb+srv://<username>:<password>@cluster.mongodb.net/<your-db>
-S3_ENDPOINT=<dummy-s3-endpoint>
-S3_ACCESSKEYID=<dummy-access-key>
-S3_SECRETACCESSKEY=<dummy-secret-key>
-
-BREVO_KEY=<your-brevo-key>
-OPENROUTER_API_KEY=<your-openrouter-key>
-SENTRY_DNS=<your-sentry-dsn>
+Follow the .env.example
 
 
 ## How to start 
